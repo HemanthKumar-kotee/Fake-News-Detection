@@ -12,7 +12,6 @@ This project applies a recurrent neural network (RNN) together with long short t
 
 The recurrent neural network (RNN) together with long short term memory (LSTM).
 
-Image Credit: [Intro to Deep Learning with PyTorch by Udacity](https://in.udacity.com/course/deep-learning-pytorch--ud188).
 
 The layers are as follows:
 
@@ -51,5 +50,3 @@ n_layers = 3
 ```
 These hyperparameters together define our model (read more about the RNN Architecture in the section above).
 
-## Credit
-This is a side project for [PyTorch Scholarship Challenge from Facebook](https://www.udacity.com/facebook-pytorch-scholarship), which uses the [Sentiment_RNN template](https://github.com/udacity/deep-learning-v2-pytorch/blob/master/sentiment-rnn/Sentiment_RNN_Solution.ipynb) from the program.

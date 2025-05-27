@@ -8,4 +8,4 @@ data/*
 
 # ignore the notebook
 
-FakeNews_RNN.ipynb
+*.ipynb
