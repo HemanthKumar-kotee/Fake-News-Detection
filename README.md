@@ -1,7 +1,6 @@
 # FakeNews RNN with PyTorch
 Create a Recurrent Neural Network (RNN) with PyTorch to identify when an article might be fake news.
 
-Live Demo: https://fakenews-rnn.herokuapp.com/
 
 ## Overview
 Fake news or junk news is a type of propaganda that transmits misinformation via traditional print, broadcast news media or online social media. Fake news was not a popular term three years ago, but it is now seen as one of the greatest threats to democracy, free debate and the Western order. It was named 2017's word of the year, raising tensions between nations, and may lead to regulation of social media.
@@ -11,7 +10,6 @@ There are many discussions and forums that give us some tips to identify fake ne
 ## RNN Architecture
 This project applies a recurrent neural network (RNN) together with long short term memory (LSTM) to identify fake news. A recurrent neural network is an artificial neural network architecture where connections between nodes form a directed graph along a sequence. RNNs can use their internal state (memory) to process sequences of inputs, and therefore, exhibit temporal dynamic behavior for a time sequence. This makes them applicable to tasks such as unsegmented, connected handwriting recognition or speech recognition. LSTMs are an improvement of the RNNs, and are quite useful when our neural network needs to switch between remembering recent things, and things from a long time ago.
 
-<img src="https://raw.githubusercontent.com/minhkhang1795/FakeNews_RNN/master/assets/network_diagram.png" width=50%>
 The recurrent neural network (RNN) together with long short term memory (LSTM).
 
 Image Credit: [Intro to Deep Learning with PyTorch by Udacity](https://in.udacity.com/course/deep-learning-pytorch--ud188).
