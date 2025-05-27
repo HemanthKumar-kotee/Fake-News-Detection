@@ -5,3 +5,7 @@ Sentiment_RNN_Solution.ipynb
 .ipynb_checkpoints/*
 *.pth
 data/*
+
+# ignore the notebook
+
+FakeNews_RNN.ipynb
